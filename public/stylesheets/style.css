@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+.content-root {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.ttt-table {
+  /*width: 50%;*/
+  /*margin-top: 33%;*/
+}
+.ttt-table td {
+  width: 33%;
+  font-size: 20pt;
+}
+.r-border {
+  border-right: 5px solid black;
+}
+.b-border {
+  border-bottom: 5px solid black;
+}
