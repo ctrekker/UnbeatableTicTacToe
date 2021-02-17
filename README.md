@@ -1,0 +1,2 @@
+# The Unbeatable Tic Tac Toe Game
+If you know anything about game theory it will be obvious why this is so easy. Using a minimax tree, which is tremendously small in the case of Tic Tac Toe, the optimal decision for gameplay strategy can be made 100% of the time. Since Tic Tac Toe is an entirely deterministic game, in addition to a tie or better always occuring if the optimal policy is chosen, this AI cannot be beaten.
